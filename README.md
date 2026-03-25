@@ -93,7 +93,7 @@ python game.py
 ## 👤 Author
 
 **Rishi**  
-GitHub: [@rishi](https://github.com/rishi)
+GitHub: [@rishi](https://github.com/RishikEllendula)
 
 ---
 
